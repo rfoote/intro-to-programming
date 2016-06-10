@@ -1,0 +1,18 @@
+Exercise 7:
+
+Given the following code, what's the difference between the two hashes that were created?
+
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+In my_hash, the key x represents a symbol. In my_hash2, the key x represents the variable x, which contains the string "hi there".
+
+
+
+Exercise 8:
+
+If you see this error, what do you suspect is the most likely problem?
+NoMethodError: undefined method `keys' for Array
+
+B. There is no method called keys for Array objects.

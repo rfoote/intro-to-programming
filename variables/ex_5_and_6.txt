@@ -1,0 +1,11 @@
+Exercise 5:
+
+In the first program, x prints 3 to the screen. x is accessible within the do/end because it's initialized outside of the block.
+
+In the second program, x doesn't print to the screen; instead there's an "undefined local variable or method 'x'" error because x is only accessible inside the do/end block, while the puts statement is outside the block.
+
+
+
+Exercise 6:
+
+This error message tells me that the program tried to use a variable that was likely not accessible at that point in the program (out of scope), or that just hadn't been defined at all.

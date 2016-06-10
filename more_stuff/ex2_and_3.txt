@@ -1,0 +1,17 @@
+Exercise #2
+
+What will the following program print to the screen? 
+nothing, because there's no .call
+
+What will it return?
+Proc:0x00000001fce710@
+
+
+
+Exercise #3
+
+What is exception handling and what problem does it solve?
+Exception handling is a process that deals with errors in a "manageable and predictable" way. 
+It allows the program to keep running when it encounters an error, instead of having it come to a complete halt.
+
+

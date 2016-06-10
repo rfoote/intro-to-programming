@@ -1,0 +1,5 @@
+What's the major difference between an Array and a Hash?
+
+An array is a list of ordered values that can be retrieved by indexes.
+
+A hash is a list of key-value pairs. Values are retrieved via their keys.

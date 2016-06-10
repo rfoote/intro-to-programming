@@ -1,0 +1,12 @@
+Exercise 4: What will the following code print to the screen?
+
+This code does not print anything to the screen, because there is a return statement before the "puts" inside the scream method.
+Therefore, the puts words expression is not evaluated.
+
+
+Exercise 5: Edit the method so that it does print words on the screen. What does it return now?
+
+After editing it so that it does print words on the screen (by taking out "return"), it returns nil.
+
+
+Exercise 6: The error message tells me that the wrong number of arguments was used when calling the "calculate_product" method (one instead of two).

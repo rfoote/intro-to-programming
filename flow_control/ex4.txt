@@ -1,0 +1,7 @@
+What will each block of code print to the screen?
+
+1. FALSE
+
+2. Did you get it right?
+
+3. Alright now!

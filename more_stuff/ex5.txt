@@ -1,0 +1,5 @@
+Why does the following code give us the following error when we run it?
+
+It gives this error because on Ln. 5, execute is trying to pass in a block as an argument, but the method definition doesn't specify that the parameter is a block.
+
+It's missing the "&".

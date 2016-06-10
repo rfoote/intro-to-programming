@@ -1,0 +1,49 @@
+Exercise 2: What will the following programs return? What is the value of arr after each?
+
+1. This program returns: 1 (what was deleted from arr)
+   The value of arr after the program runs: [["b"], ["b", 2], ["b", 3], ["a", 1], ["a", 2], ["a", 3]]
+   
+2. This program returns: [1, 2, 3] (what was deleted from arr)
+   The value of arr after the program runs: [["b"], ["a", [1, 2, 3]]]
+   
+
+
+Exercise 3: How do you print the word "example" from the following array?
+
+One way to print "example":
+puts arr.last.first
+
+
+
+Exercise 4: What does each method return in the following example?
+
+1. Returns: 3
+This is the first index where the value "5" is found in the array.
+
+2. Returns: NoMethodError: undefined method `[]' for #<Enumerator: [15, 7, 18, 5, 12, 8, 5, 1]:index>
+        from (irb):3
+        from /usr/local/rvm/rubies/ruby-2.3.0/bin/irb:11:in `<main>'
+Seems that this is not a valid syntax.
+
+3. Returns: 8
+This is the value of the element with the index of 5 (the sixth element in the array).
+
+
+
+Exercise 5: What is the value of a, b, and c in the following program?
+
+a = 'e'
+b = 'A'
+c = nil
+
+
+
+Exercise 6: What is the problem with the code that causes this error, and how can it be fixed?
+
+In line 2, Ruby expects an integer instead of a string to represent an index in the array ('margaret' in "names['margaret']" should be an integer).
+
+This can be fixed by using the index 3 instead of 'margaret', or if the index of 'margaret' is unknown, it could be found or referenced with names.index('margaret').
+
+
+
+

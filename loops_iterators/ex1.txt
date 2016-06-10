@@ -1,0 +1,3 @@
+In this program, the each method returns the following:
+[1, 2, 3, 4, 5]
+(The "each" iterator returns the collection of elements it iterated over.)

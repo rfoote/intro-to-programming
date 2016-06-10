@@ -1,0 +1,4 @@
+Why do you get this error and how can you fix it?
+
+You get this error because you're missing an "end" in the equal_to_four method. 
+There should be an "end" to end the "if" statement, and one to end the method.

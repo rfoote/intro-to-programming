@@ -1,0 +1,17 @@
+Look at several Rails/Ruby online API sources and say which one you like best and why.
+
+I looked at:
+
+ruby-doc.org (This is the one I have been using for reference)
+
+rubydoc.info
+
+apidock.com/ruby/browse (This one allows users to add notes/examples)
+
+guides.rubyonrails.org
+
+api.rubyonrails.org
+
+
+For now, since I've only been using Ruby (not Rails), I like the site I've been using as a reference: ruby-doc.org 
+It's easy to find information I need on this site.
