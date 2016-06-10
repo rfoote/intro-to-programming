@@ -1,4 +1,4 @@
-intro-to-prog
+intro-to-programming
 
 Introduction to Programming - Launch School
 
